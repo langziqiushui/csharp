@@ -1,7 +1,7 @@
 csharp
 ====
 
-ip数据库下载地址
+ip数据库下载地址：https://www.ipip.net/download.html
 
 17mon IP库解析代码
 
